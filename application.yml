@@ -6,12 +6,12 @@ spring:
 spring:
   profiles: dev
   application:
-    name:  dev
+    name:  cloud-cofing-dev
 ---
 spring:
   profiles: test
   application:
-    name:  test
+    name:  cloud-cofing-test
 
  
 
